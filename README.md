@@ -42,7 +42,7 @@ A simple web-based Bookstore application built using **PHP** and **MySQL**. This
 ### 1. Clone the repository
 
 
-git clone https://github.com/ThanksVu/bookstore.git
+git clone https://github.com/ThanksVu/Bookstore-web
 cd bookstore
 
 ### 2. Import the database
