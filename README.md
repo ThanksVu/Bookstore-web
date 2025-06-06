@@ -1,9 +1,8 @@
-Sure! Below is your updated `README.md` content fully converted into **proper Markdown syntax**, perfectly formatted for GitHub display:
+
 
 ---
 
-````markdown
-# 📚 Bookstore Web Application
+## 📚 Bookstore Web Application
 
 A simple web-based Bookstore application built using **PHP** and **MySQL**. This project allows users to browse books, view book details, and manage a shopping cart. Admins can add, update, or delete books from the store.
 
@@ -37,14 +36,14 @@ A simple web-based Bookstore application built using **PHP** and **MySQL**. This
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
+---
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/ThanksVu/bookstore.git
 cd bookstore
-````
 
 ### 2. Import the database
 
